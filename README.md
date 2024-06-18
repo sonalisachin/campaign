@@ -30,6 +30,8 @@ php artisan db:seed --class=ProductsTableSeeder
 # Step 11: Serve the application
 php artisan serve
 
+
 # Step 12: Run Application On postman
+
 
 # Step 13: Import Json file into Postman
